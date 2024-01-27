@@ -14,7 +14,7 @@
         <!-- 以下信息请不要修改哦 -->
         <span class="hidden">
           &amp;&nbsp;Made&nbsp;by
-          <a :href="https://github.com/Dragon-MLJ/home/" target="_blank">
+          <a href="https://github.com/Dragon-MLJ/home/" target="_blank">
             -MLJ-
           </a>
         </span>
