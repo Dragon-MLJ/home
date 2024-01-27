@@ -118,7 +118,7 @@ onMounted(() => {
         | $$ \/  | $$| $$$$$$$$|  $$$$$$/        
         |__/     |__/|________/ \______/         
                                                  `;
-  const content = `\n\n版本: ${config.version}\n主页: ${config.home}\nGithub: ${config.github}`;
+  const content = `\n\n版本: ${config.version}\n主页: https://github.com/Dragon-MLJ \nGithub: https://github.com/Dragon-MLJ/home`;
   console.info(`%c${title1} %c${title2} %c${content}`, styleTitle1, styleTitle2, styleContent);
 });
 
