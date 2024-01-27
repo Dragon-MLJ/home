@@ -14,12 +14,12 @@
         <!-- 以下信息请不要修改哦 -->
         <span class="hidden">
           &amp;&nbsp;Made&nbsp;by
-          <a :href="config.github" target="_blank">
-            {{ config.author }}
+          <a :href="https://github.com/Dragon-MLJ/home/" target="_blank">
+            -MLJ-
           </a>
         </span>
         <!-- 站点备案 -->
-        <a v-if="siteIcp" href="https://beian.miit.gov.cn" target="_blank">
+        <a v-if="siteIcp" href="https://icp.gov.moe/?keyword=20248634 " target="_blank">
           &amp;
           {{ siteIcp }}
         </a>
